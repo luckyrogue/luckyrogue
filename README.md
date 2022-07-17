@@ -8,7 +8,7 @@
 I'm a ~~Lucky Leaf~~ who doesn't hope for luck at Frontend and Backend Developing.
 
 - 🔭 Research-wise, I'm mainly working on topics related to exploring the capability of machines to be continual, generalizable and data-efficient, like continual learning, meta-learning and few-shot learning
-- 🎯 I'm also working on Golang
+- 🎯 I'm also working on Golang microservices and bots
 - 🚀 I'm learning to build Clouds Softwares and Systems
 - 🧐 I'm also learning TypeScript, React and Vue
 - 👾 I'm currently interested in constructing buildings in Yandex Clouds
