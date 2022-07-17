@@ -23,4 +23,4 @@ I'm a ~~Lucky Leaf~~ who doesn't hope for luck at Frontend and Backend Developin
 ![GOlang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-00ADD8?style=for-the-badge&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-00A300?style=for-the-badge&logo=node.js&logoColor=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyrogue)](https://github.com/luckyrogue/github-readme-stats)
+
