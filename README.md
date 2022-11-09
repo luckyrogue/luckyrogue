@@ -19,5 +19,5 @@ I'm a ~~Lucky Leaf~~ who doesn't hope for luck at Frontend and Backend Developin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GOlang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/Php-00ADD1?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-8B008B?style=for-the-badge&logo=php&logoColor=white)
 
