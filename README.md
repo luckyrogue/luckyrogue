@@ -1,6 +1,5 @@
 ### Hey there, you found me.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/temirlan-rysdavletov)
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:1uckyrogue@proton.me)
 [![Email](https://img.shields.io/badge/Telegram-00AFF0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/luckyrogue)
 
